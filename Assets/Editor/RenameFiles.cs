@@ -4,7 +4,7 @@ using System.IO;
 
 public class RemovePrefix : EditorWindow
 {
-    private string prefix = "HG2_CH4_SC3_PZ6_";
+    private string prefix = "";
 
     [MenuItem("Tools/Remove Prefix From Selected Assets")]
     static void Init()
