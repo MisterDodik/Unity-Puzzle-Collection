@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace com.vincell.lbg.HG2_CH2_SC2_PZ6_Gate_Barrier_Puzzle
+namespace com.puzzles.Gate_Barrier_Puzzle
 {
     public class GateBarrierPuzzleManager : MonoBehaviour
     {
@@ -39,16 +39,6 @@ namespace com.vincell.lbg.HG2_CH2_SC2_PZ6_Gate_Barrier_Puzzle
         {
             InitGame();
         }
-        public void Show()
-        {
-
-        }
-
-        public void OnBack()
-        {
-
-        }
-
         public void ResetGame()
         {
             InitGame();
@@ -80,11 +70,6 @@ namespace com.vincell.lbg.HG2_CH2_SC2_PZ6_Gate_Barrier_Puzzle
         public void Completed()
         {
             print("Win");
-        }
-
-        public void OnPuzzleHint()
-        {
-
         }
 
         IEnumerator delayedEndGame()

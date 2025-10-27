@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace com.vincell.lbg.HG2_CH2_SC2_PZ6_Gate_Barrier_Puzzle
+namespace com.puzzles.Gate_Barrier_Puzzle
 {
     public enum LightHint
     {
