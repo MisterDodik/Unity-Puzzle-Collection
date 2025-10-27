@@ -1664,7 +1664,7 @@ PrefabInstance:
       objectReference: {fileID: 1052500330}
     - target: {fileID: 5746408112927922435, guid: 812a1269104a4e34f8fdbbb64ac44bd9, type: 3}
       propertyPath: m_Name
-      value: HG2_CH4_SC3_PZ6_Soul_Boss_Minigame
+      value: Soul_Boss_Minigame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
