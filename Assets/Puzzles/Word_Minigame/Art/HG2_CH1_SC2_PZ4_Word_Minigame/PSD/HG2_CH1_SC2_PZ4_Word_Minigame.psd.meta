@@ -1,0 +1,2393 @@
+fileFormatVersion: 2
+guid: feb7e3bde2f059f49a659204846c11a4
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Archives copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1425
+      y: 1713
+      width: 264
+      height: 70
+    spriteID: 0fce62ba500bd0e4c996f4972a91e92e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1425, y: 1713}
+    spritePosition: {x: 1280, y: 612}
+  - name: Archives
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1697
+      y: 1713
+      width: 264
+      height: 70
+    spriteID: 6577e6001d5b2214a9fe9e11870ddf24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1697, y: 1713}
+    spritePosition: {x: 1124, y: 696}
+  - name: "Finn\u2019s love"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2561
+      y: 1638
+      width: 257
+      height: 95
+    spriteID: e4a063c7cdc212143ad521ddbf16c64b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2561, y: 1638}
+    spritePosition: {x: 1572, y: 403}
+  - name: Answers
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1892
+      y: 1598
+      width: 208
+      height: 100
+    spriteID: 7bcde3cd050491a429b314d12225f636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1892, y: 1598}
+    spritePosition: {x: 1937, y: 477}
+  - name: Sorrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 552
+      y: 1827
+      width: 167
+      height: 51
+    spriteID: c9b1b670ff3c25e4daa33727be8499ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 552, y: 1827}
+    spritePosition: {x: 1855, y: 724}
+  - name: Church
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1947
+      y: 1989
+      width: 177
+      height: 54
+    spriteID: eb2417ed62e704f41a9b81550972a71b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1947, y: 1989}
+    spritePosition: {x: 1919, y: 908}
+  - name: Fame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1127
+      y: 1994
+      width: 124
+      height: 49
+    spriteID: 18f5f5a65a8ee3340bdd342a643c06dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1127, y: 1994}
+    spritePosition: {x: 1308, y: 212}
+  - name: Sheila
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 766
+      y: 1906
+      width: 136
+      height: 105
+    spriteID: b3095b8aa4d7f674ab37fd54dd39b6d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 766, y: 1906}
+    spritePosition: {x: 1302, y: 527}
+  - name: Mother
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1127
+      y: 1906
+      width: 173
+      height: 80
+    spriteID: a8f1a26251a06ad4ea6d31ec6e0a0754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1127, y: 1906}
+    spritePosition: {x: 1311, y: 855}
+  - name: Regret
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 1906
+      width: 175
+      height: 85
+    spriteID: 9936273df84ee0643a4b3e9c44a83dbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 1906}
+    spritePosition: {x: 922, y: 205}
+  - name: Cabin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1313
+      y: 1827
+      width: 129
+      height: 60
+    spriteID: 37084582e8c928f44bc1fda424ad76a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1313, y: 1827}
+    spritePosition: {x: 1031, y: 437}
+  - name: Finn
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2789
+      y: 1265
+      width: 98
+      height: 101
+    spriteID: c8a5c24bbc57f044bae27eace525fb40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2789, y: 1265}
+    spritePosition: {x: 927, y: 617}
+  - name: Home
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1954
+      y: 1827
+      width: 117
+      height: 48
+    spriteID: 2b65020c88835c145a228a31561f22e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1954, y: 1827}
+    spritePosition: {x: 863, y: 894}
+  - name: Order
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1947
+      y: 1906
+      width: 130
+      height: 75
+    spriteID: 512fa184e7af19248807909ca71703d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1947, y: 1906}
+    spritePosition: {x: 599, y: 224}
+  - name: Heart
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 1827
+      width: 134
+      height: 71
+    spriteID: 4a842b368217c1645b97383b27b44e75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 258, y: 1827}
+    spritePosition: {x: 530, y: 447}
+  - name: Corvus copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 1713
+      width: 146
+      height: 98
+    spriteID: 24d3d14623cf76b498f6286779c29276
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1969, y: 1713}
+    spritePosition: {x: 1992, y: 223}
+  - name: Corvus copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1485
+      y: 1906
+      width: 153
+      height: 76
+    spriteID: 00575fc583704424495f4bdef2d4bfba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1485, y: 1906}
+    spritePosition: {x: 1538, y: 719}
+  - name: Corvus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1023
+      y: 1827
+      width: 156
+      height: 53
+    spriteID: 73c9b9c3372ce2942b0b2c16d4de6972
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1023, y: 1827}
+    spritePosition: {x: 533, y: 650}
+  - name: Archives copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1906
+      width: 205
+      height: 84
+    spriteID: 8e6b592e0ffb1b74f8dd837372e7fdb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1906}
+    spritePosition: {x: 1650, y: 189}
+  - name: Archives
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1782
+      width: 201
+      height: 113
+    spriteID: 74e72b627fc80c945a9b5fa18e08f74b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1782}
+    spritePosition: {x: 510, y: 838}
+  - name: Initial_state_3_question
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1598
+      width: 1666
+      height: 107
+    spriteID: aabcfac9b10f6504db01c2a5d9ad1727
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1598}
+    spritePosition: {x: 497, y: 1054}
+  - name: Missing_Girl_03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1390
+      width: 385
+      height: 116
+    spriteID: 3a050c75386448b4d8b379dd97e31568
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1390}
+    spritePosition: {x: 1204, y: 495}
+  - name: Missing_Girl_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1265
+      width: 384
+      height: 117
+    spriteID: 1871933246bb1654192d1d2af7db783e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1265}
+    spritePosition: {x: 1026, y: 605}
+  - name: Missing_Girl_01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1514
+      width: 385
+      height: 116
+    spriteID: a61414a2673499446967eda7b5b0ea0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1514}
+    spritePosition: {x: 1257, y: 688}
+  - name: "Finn\u2019s love"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2313
+      y: 1982
+      width: 255
+      height: 61
+    spriteID: e3048878cbca78a44b6b231153feeb77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2313, y: 1982}
+    spritePosition: {x: 1832, y: 433}
+  - name: Fame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1450
+      y: 1827
+      width: 124
+      height: 49
+    spriteID: 4e4f9249683c1614d8ab22117c71426e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1450, y: 1827}
+    spritePosition: {x: 1642, y: 204}
+  - name: Regret
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 1906
+      width: 175
+      height: 85
+    spriteID: 407814e1c0d53974e9de1def363269cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 400, y: 1906}
+    spritePosition: {x: 1278, y: 210}
+  - name: Order
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 1906
+      width: 127
+      height: 78
+    spriteID: b58baad5b9d13684e81c1441c5a697bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 1906}
+    spritePosition: {x: 884, y: 184}
+  - name: Happiness
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2538
+      y: 1265
+      width: 243
+      height: 96
+    spriteID: b5f854db3e9ea744a9aae43f8e541be7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2538, y: 1265}
+    spritePosition: {x: 434, y: 240}
+  - name: Home_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1812
+      y: 1992
+      width: 121
+      height: 51
+    spriteID: a572f691cc29de547ae971d44ab657f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1812, y: 1992}
+    spritePosition: {x: 820, y: 396}
+  - name: Home_01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1829
+      y: 1827
+      width: 117
+      height: 51
+    spriteID: 55a21297088930645a579c53d9edf76c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1829, y: 1827}
+    spritePosition: {x: 1159, y: 464}
+  - name: Sheila
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1646
+      y: 1979
+      width: 145
+      height: 60
+    spriteID: 3a52c77c08e7b3048a9a625938ef4e6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1646, y: 1979}
+    spritePosition: {x: 1555, y: 447}
+  - name: Sorrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1308
+      y: 1906
+      width: 169
+      height: 71
+    spriteID: bbec1339a13e55142bcb3431a5182689
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1308, y: 1906}
+    spritePosition: {x: 1979, y: 609}
+  - name: Curse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1485
+      y: 1990
+      width: 143
+      height: 53
+    spriteID: c585eb22ad9081242a73ffc0e594550a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1485, y: 1990}
+    spritePosition: {x: 1722, y: 770}
+  - name: Coruus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1646
+      y: 1906
+      width: 158
+      height: 65
+    spriteID: 4bc99c112cb404b49b243430970dd941
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1646, y: 1906}
+    spritePosition: {x: 1397, y: 628}
+  - name: Finn
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1714
+      y: 1827
+      width: 107
+      height: 56
+    spriteID: f9f2d80c290151d4a99b9de6f2cd688d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1714, y: 1827}
+    spritePosition: {x: 1009, y: 706}
+  - name: Mother
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2592
+      y: 1981
+      width: 173
+      height: 55
+    spriteID: 142e2a8aeaf566c42b3dfafaa2483b9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2592, y: 1981}
+    spritePosition: {x: 1334, y: 889}
+  - name: Missing_girl_03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1806
+      y: 1465
+      width: 290
+      height: 101
+    spriteID: 86d497623af6c834e8d39b86bb779809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1806, y: 1465}
+    spritePosition: {x: 1876, y: 216}
+  - name: Missing_girl_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2539
+      y: 1390
+      width: 286
+      height: 113
+    spriteID: 516f53be2e916624d84f676109976aad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2539, y: 1390}
+    spritePosition: {x: 1874, y: 861}
+  - name: Missing_girl_01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2539
+      y: 1514
+      width: 291
+      height: 108
+    spriteID: 2a325aa7dfa453c4bb33edfbfe5f62c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2539, y: 1514}
+    spritePosition: {x: 744, y: 872}
+  - name: "Finn\u2019s death"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2355
+      y: 1782
+      width: 303
+      height: 68
+    spriteID: c09c19200e904da4e9de4e70460768d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2355, y: 1782}
+    spritePosition: {x: 526, y: 561}
+  - name: Divinity
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1903
+      width: 159
+      height: 131
+    spriteID: 349441ce075f8244db00335f1f45865f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1903}
+    spritePosition: {x: 422, y: 758}
+  - name: initial_state_2_question
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1150
+      width: 678
+      height: 107
+    spriteID: 3215f9aa7c5523d41be5e5f187bde74d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1150}
+    spritePosition: {x: 1025, y: 1068}
+  - name: Answers_04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2313
+      y: 1903
+      width: 271
+      height: 71
+    spriteID: 7040e36849c20514b96e44978d791d87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2313, y: 1903}
+    spritePosition: {x: 1075, y: 524}
+  - name: Answers_03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 867
+      y: 1713
+      width: 271
+      height: 70
+    spriteID: c9ac8dc8d4ffae945a406536cd25fe5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 867, y: 1713}
+    spritePosition: {x: 1166, y: 609}
+  - name: Answers_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1146
+      y: 1713
+      width: 271
+      height: 70
+    spriteID: 8081d5272620c5241933bc68d41903a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1146, y: 1713}
+    spritePosition: {x: 1346, y: 674}
+  - name: Answers_01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2592
+      y: 1903
+      width: 272
+      height: 70
+    spriteID: 53813facf4f678b4aa2de32bfc705cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2592, y: 1903}
+    spritePosition: {x: 1051, y: 702}
+  - name: State_1_failed
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1314
+      width: 1794
+      height: 276
+    spriteID: a448239524b8e9b4d8cd8f916fa662a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1314}
+    spritePosition: {x: 432, y: 495}
+  - name: Coruus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 727
+      y: 1827
+      width: 158
+      height: 53
+    spriteID: 32957e70d307aac45bc6a29ba11276fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 727, y: 1827}
+    spritePosition: {x: 1004, y: 211}
+  - name: Justice
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1308
+      y: 1985
+      width: 163
+      height: 58
+    spriteID: 076abbe15ebab2146aa0c58ce4c6c97a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1308, y: 1985}
+    spritePosition: {x: 2033, y: 272}
+  - name: Fame
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1582
+      y: 1827
+      width: 124
+      height: 49
+    spriteID: c5e841f6d0bf77f4282fb850ef8ceda2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1582, y: 1827}
+    spritePosition: {x: 1809, y: 195}
+  - name: Pain
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2773
+      y: 1981
+      width: 99
+      height: 62
+    spriteID: ea944bf1dca614b42b48a99220f10703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2773, y: 1981}
+    spritePosition: {x: 1251, y: 424}
+  - name: Sorrow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 910
+      y: 1981
+      width: 170
+      height: 63
+    spriteID: c87f01174cc5f694c97634633daf186b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 910, y: 1981}
+    spritePosition: {x: 1948, y: 672}
+  - name: Happiness
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1827
+      width: 246
+      height: 71
+    spriteID: 94e371d1900531d43822917cff563bc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1827}
+    spritePosition: {x: 1340, y: 636}
+  - name: Home_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 893
+      y: 1827
+      width: 122
+      height: 68
+    spriteID: 4bdb1d0cfa3a0484b8c47dbae2589a54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 893, y: 1827}
+    spritePosition: {x: 2041, y: 912}
+  - name: Home
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1187
+      y: 1827
+      width: 118
+      height: 69
+    spriteID: d8f03ac8202584943894ce0ce9346c8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1187, y: 1827}
+    spritePosition: {x: 542, y: 384}
+  - name: Finn_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2902
+      y: 4
+      width: 102
+      height: 53
+    spriteID: b2b7a9dae3f5f294c9aa12d7eff6f925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2902, y: 4}
+    spritePosition: {x: 1619, y: 405}
+  - name: Finn
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2023
+      y: 1314
+      width: 104
+      height: 84
+    spriteID: 010fcf191022da447a72b0f15420bbda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2023, y: 1314}
+    spritePosition: {x: 982, y: 507}
+  - name: Sheila
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 400
+      y: 1827
+      width: 144
+      height: 60
+    spriteID: 0670f2b4f8da0c24e89bad82a2547a20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 400, y: 1827}
+    spritePosition: {x: 545, y: 620}
+  - name: Regret
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 583
+      y: 1906
+      width: 175
+      height: 85
+    spriteID: 77977066eaf9d604fa7b20e4392eb6cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 583, y: 1906}
+    spritePosition: {x: 1634, y: 801}
+  - name: Revenge_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2666
+      y: 1782
+      width: 218
+      height: 82
+    spriteID: a5b8a0aea32ae5f46a44bcade90524eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2666, y: 1782}
+    spritePosition: {x: 1401, y: 182}
+  - name: Revenge
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1806
+      y: 1314
+      width: 209
+      height: 143
+    spriteID: efc0219022edbac4db22187da3a68c2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1806, y: 1314}
+    spritePosition: {x: 852, y: 735}
+  - name: Answers_04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 1638
+      width: 195
+      height: 136
+    spriteID: 06dba022c558dd24c8470ad28227b3be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 1638}
+    spritePosition: {x: 619, y: 173}
+  - name: Answers_03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2349
+      y: 1638
+      width: 204
+      height: 120
+    spriteID: b4a5c551b08d77f41b59203d2f17abe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2349, y: 1638}
+    spritePosition: {x: 1805, y: 475}
+  - name: Answers_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 910
+      y: 1906
+      width: 209
+      height: 67
+    spriteID: 6df6eaa5f99dab94aa51728822e37483
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 910, y: 1906}
+    spritePosition: {x: 1208, y: 844}
+  - name: Answers_02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1678
+      y: 1598
+      width: 206
+      height: 104
+    spriteID: c76dc62e86e76f84fbbc1cf17ebd1360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1678, y: 1598}
+    spritePosition: {x: 493, y: 840}
+  - name: initial_state_1_question
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1713
+      width: 855
+      height: 106
+    spriteID: 6650582d6728d9a4897cfc60edde7299
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1713}
+    spritePosition: {x: 909, y: 1054}
+  - name: sample_ghost
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2146
+      y: 4
+      width: 748
+      height: 1138
+    spriteID: a25f9dd32a840fc4dbece510f7f26f86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2146, y: 4}
+    spritePosition: {x: 980, y: 81}
+  - name: Mirror
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2134
+      height: 1302
+    spriteID: 242dbfd239cf0364ea05b619ef93c727
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 273, y: 29}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: solved_state_3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8da7b8a780ace6048a066a6769b2897f
+    layerID: 398
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Archives copy 2
+    spriteName: Archives copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0fce62ba500bd0e4c996f4972a91e92e
+    layerID: 397
+    mosaicPosition: {x: 1425, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Archives
+    spriteName: Archives
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6577e6001d5b2214a9fe9e11870ddf24
+    layerID: 396
+    mosaicPosition: {x: 1697, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: initial_state_3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3d518452c69bb1d458c94b63ed45e1c2
+    layerID: 394
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Finn\u2019s love"
+    spriteName: "Finn\u2019s love"
+    isGroup: 0
+    parentIndex: 3
+    spriteID: e4a063c7cdc212143ad521ddbf16c64b
+    layerID: 393
+    mosaicPosition: {x: 2561, y: 1638}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers
+    spriteName: Answers
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 7bcde3cd050491a429b314d12225f636
+    layerID: 392
+    mosaicPosition: {x: 1892, y: 1598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sorrow
+    spriteName: Sorrow
+    isGroup: 0
+    parentIndex: 3
+    spriteID: c9b1b670ff3c25e4daa33727be8499ad
+    layerID: 391
+    mosaicPosition: {x: 552, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Church
+    spriteName: Church
+    isGroup: 0
+    parentIndex: 3
+    spriteID: eb2417ed62e704f41a9b81550972a71b
+    layerID: 390
+    mosaicPosition: {x: 1947, y: 1989}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fame
+    spriteName: Fame
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 18f5f5a65a8ee3340bdd342a643c06dc
+    layerID: 389
+    mosaicPosition: {x: 1127, y: 1994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sheila
+    spriteName: Sheila
+    isGroup: 0
+    parentIndex: 3
+    spriteID: b3095b8aa4d7f674ab37fd54dd39b6d1
+    layerID: 388
+    mosaicPosition: {x: 766, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mother
+    spriteName: Mother
+    isGroup: 0
+    parentIndex: 3
+    spriteID: a8f1a26251a06ad4ea6d31ec6e0a0754
+    layerID: 387
+    mosaicPosition: {x: 1127, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Regret
+    spriteName: Regret
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 9936273df84ee0643a4b3e9c44a83dbf
+    layerID: 386
+    mosaicPosition: {x: 217, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cabin
+    spriteName: Cabin
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 37084582e8c928f44bc1fda424ad76a6
+    layerID: 385
+    mosaicPosition: {x: 1313, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Finn
+    spriteName: Finn
+    isGroup: 0
+    parentIndex: 3
+    spriteID: c8a5c24bbc57f044bae27eace525fb40
+    layerID: 384
+    mosaicPosition: {x: 2789, y: 1265}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Home
+    spriteName: Home
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 2b65020c88835c145a228a31561f22e9
+    layerID: 383
+    mosaicPosition: {x: 1954, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Order
+    spriteName: Order
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 512fa184e7af19248807909ca71703d6
+    layerID: 382
+    mosaicPosition: {x: 1947, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Heart
+    spriteName: Heart
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 4a842b368217c1645b97383b27b44e75
+    layerID: 381
+    mosaicPosition: {x: 258, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corvus copy 2
+    spriteName: Corvus copy 2
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 24d3d14623cf76b498f6286779c29276
+    layerID: 380
+    mosaicPosition: {x: 1969, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corvus copy
+    spriteName: Corvus copy
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 00575fc583704424495f4bdef2d4bfba
+    layerID: 379
+    mosaicPosition: {x: 1485, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Corvus
+    spriteName: Corvus
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 73c9b9c3372ce2942b0b2c16d4de6972
+    layerID: 378
+    mosaicPosition: {x: 1023, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Archives copy
+    spriteName: Archives copy
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 8e6b592e0ffb1b74f8dd837372e7fdb9
+    layerID: 377
+    mosaicPosition: {x: 4, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Archives
+    spriteName: Archives
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 74e72b627fc80c945a9b5fa18e08f74b
+    layerID: 375
+    mosaicPosition: {x: 2146, y: 1782}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Initial_state_3_question
+    spriteName: Initial_state_3_question
+    isGroup: 0
+    parentIndex: -1
+    spriteID: aabcfac9b10f6504db01c2a5d9ad1727
+    layerID: 195
+    mosaicPosition: {x: 4, y: 1598}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: state_2_solved
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: dfd550b04dcc7f342ab6e4846050e4d9
+    layerID: 372
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Missing_Girl_03
+    spriteName: Missing_Girl_03
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 3a050c75386448b4d8b379dd97e31568
+    layerID: 371
+    mosaicPosition: {x: 2146, y: 1390}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Missing_Girl_02
+    spriteName: Missing_Girl_02
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 1871933246bb1654192d1d2af7db783e
+    layerID: 370
+    mosaicPosition: {x: 2146, y: 1265}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Missing_Girl_01
+    spriteName: Missing_Girl_01
+    isGroup: 0
+    parentIndex: 23
+    spriteID: a61414a2673499446967eda7b5b0ea0f
+    layerID: 368
+    mosaicPosition: {x: 2146, y: 1514}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Initila_state_2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3b6d3d29bb0c1ba45aecfd22e0ad22eb
+    layerID: 365
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Finn\u2019s love"
+    spriteName: "Finn\u2019s love"
+    isGroup: 0
+    parentIndex: 27
+    spriteID: e3048878cbca78a44b6b231153feeb77
+    layerID: 364
+    mosaicPosition: {x: 2313, y: 1982}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fame
+    spriteName: Fame
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 4e4f9249683c1614d8ab22117c71426e
+    layerID: 363
+    mosaicPosition: {x: 1450, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Regret
+    spriteName: Regret
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 407814e1c0d53974e9de1def363269cc
+    layerID: 362
+    mosaicPosition: {x: 400, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Order
+    spriteName: Order
+    isGroup: 0
+    parentIndex: 27
+    spriteID: b58baad5b9d13684e81c1441c5a697bb
+    layerID: 361
+    mosaicPosition: {x: 1812, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Happiness
+    spriteName: Happiness
+    isGroup: 0
+    parentIndex: 27
+    spriteID: b5f854db3e9ea744a9aae43f8e541be7
+    layerID: 360
+    mosaicPosition: {x: 2538, y: 1265}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Home_02
+    spriteName: Home_02
+    isGroup: 0
+    parentIndex: 27
+    spriteID: a572f691cc29de547ae971d44ab657f8
+    layerID: 359
+    mosaicPosition: {x: 1812, y: 1992}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Home_01
+    spriteName: Home_01
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 55a21297088930645a579c53d9edf76c
+    layerID: 358
+    mosaicPosition: {x: 1829, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sheila
+    spriteName: Sheila
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 3a52c77c08e7b3048a9a625938ef4e6e
+    layerID: 357
+    mosaicPosition: {x: 1646, y: 1979}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sorrow
+    spriteName: Sorrow
+    isGroup: 0
+    parentIndex: 27
+    spriteID: bbec1339a13e55142bcb3431a5182689
+    layerID: 356
+    mosaicPosition: {x: 1308, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Curse
+    spriteName: Curse
+    isGroup: 0
+    parentIndex: 27
+    spriteID: c585eb22ad9081242a73ffc0e594550a
+    layerID: 355
+    mosaicPosition: {x: 1485, y: 1990}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coruus
+    spriteName: Coruus
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 4bc99c112cb404b49b243430970dd941
+    layerID: 354
+    mosaicPosition: {x: 1646, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Finn
+    spriteName: Finn
+    isGroup: 0
+    parentIndex: 27
+    spriteID: f9f2d80c290151d4a99b9de6f2cd688d
+    layerID: 353
+    mosaicPosition: {x: 1714, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mother
+    spriteName: Mother
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 142e2a8aeaf566c42b3dfafaa2483b9e
+    layerID: 352
+    mosaicPosition: {x: 2592, y: 1981}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Missing_girl_03
+    spriteName: Missing_girl_03
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 86d497623af6c834e8d39b86bb779809
+    layerID: 351
+    mosaicPosition: {x: 1806, y: 1465}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Missing_girl_02
+    spriteName: Missing_girl_02
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 516f53be2e916624d84f676109976aad
+    layerID: 350
+    mosaicPosition: {x: 2539, y: 1390}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Missing_girl_01
+    spriteName: Missing_girl_01
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 2a325aa7dfa453c4bb33edfbfe5f62c8
+    layerID: 349
+    mosaicPosition: {x: 2539, y: 1514}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Finn\u2019s death"
+    spriteName: "Finn\u2019s death"
+    isGroup: 0
+    parentIndex: 27
+    spriteID: c09c19200e904da4e9de4e70460768d7
+    layerID: 348
+    mosaicPosition: {x: 2355, y: 1782}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Divinity
+    spriteName: Divinity
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 349441ce075f8244db00335f1f45865f
+    layerID: 347
+    mosaicPosition: {x: 2146, y: 1903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: initial_state_2_question
+    spriteName: initial_state_2_question
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3215f9aa7c5523d41be5e5f187bde74d
+    layerID: 65
+    mosaicPosition: {x: 2146, y: 1150}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: state_1_solved
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 5a1c6661907c7b546b188ca2bb826240
+    layerID: 345
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Answers_04
+    spriteName: Answers_04
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 7040e36849c20514b96e44978d791d87
+    layerID: 344
+    mosaicPosition: {x: 2313, y: 1903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_03
+    spriteName: Answers_03
+    isGroup: 0
+    parentIndex: 47
+    spriteID: c9ac8dc8d4ffae945a406536cd25fe5e
+    layerID: 343
+    mosaicPosition: {x: 867, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_02
+    spriteName: Answers_02
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 8081d5272620c5241933bc68d41903a6
+    layerID: 342
+    mosaicPosition: {x: 1146, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_01
+    spriteName: Answers_01
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 53813facf4f678b4aa2de32bfc705cb7
+    layerID: 334
+    mosaicPosition: {x: 2592, y: 1903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: State_1_failed
+    spriteName: State_1_failed
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a448239524b8e9b4d8cd8f916fa662a6
+    layerID: 54
+    mosaicPosition: {x: 4, y: 1314}
+    flatten: 0
+    isImported: 1
+    isVisible: 0
+  - name: Initial_state
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a73f180f8bd408649bbbd40ee219851d
+    layerID: 331
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Coruus
+    spriteName: Coruus
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 32957e70d307aac45bc6a29ba11276fb
+    layerID: 330
+    mosaicPosition: {x: 727, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Justice
+    spriteName: Justice
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 076abbe15ebab2146aa0c58ce4c6c97a
+    layerID: 329
+    mosaicPosition: {x: 1308, y: 1985}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fame
+    spriteName: Fame
+    isGroup: 0
+    parentIndex: 53
+    spriteID: c5e841f6d0bf77f4282fb850ef8ceda2
+    layerID: 328
+    mosaicPosition: {x: 1582, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Pain
+    spriteName: Pain
+    isGroup: 0
+    parentIndex: 53
+    spriteID: ea944bf1dca614b42b48a99220f10703
+    layerID: 327
+    mosaicPosition: {x: 2773, y: 1981}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sorrow
+    spriteName: Sorrow
+    isGroup: 0
+    parentIndex: 53
+    spriteID: c87f01174cc5f694c97634633daf186b
+    layerID: 326
+    mosaicPosition: {x: 910, y: 1981}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Happiness
+    spriteName: Happiness
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 94e371d1900531d43822917cff563bc8
+    layerID: 325
+    mosaicPosition: {x: 4, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Home_02
+    spriteName: Home_02
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 4bdb1d0cfa3a0484b8c47dbae2589a54
+    layerID: 333
+    mosaicPosition: {x: 893, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Home
+    spriteName: Home
+    isGroup: 0
+    parentIndex: 53
+    spriteID: d8f03ac8202584943894ce0ce9346c8d
+    layerID: 324
+    mosaicPosition: {x: 1187, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Finn_02
+    spriteName: Finn_02
+    isGroup: 0
+    parentIndex: 53
+    spriteID: b2b7a9dae3f5f294c9aa12d7eff6f925
+    layerID: 322
+    mosaicPosition: {x: 2902, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Finn
+    spriteName: Finn
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 010fcf191022da447a72b0f15420bbda
+    layerID: 321
+    mosaicPosition: {x: 2023, y: 1314}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sheila
+    spriteName: Sheila
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 0670f2b4f8da0c24e89bad82a2547a20
+    layerID: 320
+    mosaicPosition: {x: 400, y: 1827}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Regret
+    spriteName: Regret
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 77977066eaf9d604fa7b20e4392eb6cb
+    layerID: 319
+    mosaicPosition: {x: 583, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Revenge_02
+    spriteName: Revenge_02
+    isGroup: 0
+    parentIndex: 53
+    spriteID: a5b8a0aea32ae5f46a44bcade90524eb
+    layerID: 323
+    mosaicPosition: {x: 2666, y: 1782}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Revenge
+    spriteName: Revenge
+    isGroup: 0
+    parentIndex: 53
+    spriteID: efc0219022edbac4db22187da3a68c2d
+    layerID: 318
+    mosaicPosition: {x: 1806, y: 1314}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_04
+    spriteName: Answers_04
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 06dba022c558dd24c8470ad28227b3be
+    layerID: 317
+    mosaicPosition: {x: 2146, y: 1638}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_03
+    spriteName: Answers_03
+    isGroup: 0
+    parentIndex: 53
+    spriteID: b4a5c551b08d77f41b59203d2f17abe7
+    layerID: 314
+    mosaicPosition: {x: 2349, y: 1638}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_02
+    spriteName: Answers_02
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 6df6eaa5f99dab94aa51728822e37483
+    layerID: 313
+    mosaicPosition: {x: 910, y: 1906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Answers_02
+    spriteName: Answers_02
+    isGroup: 0
+    parentIndex: 53
+    spriteID: c76dc62e86e76f84fbbc1cf17ebd1360
+    layerID: 312
+    mosaicPosition: {x: 1678, y: 1598}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: initial_state_1_question
+    spriteName: initial_state_1_question
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6650582d6728d9a4897cfc60edde7299
+    layerID: 28
+    mosaicPosition: {x: 4, y: 1713}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: sample_ghost
+    spriteName: sample_ghost
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a25f9dd32a840fc4dbece510f7f26f86
+    layerID: 21
+    mosaicPosition: {x: 2146, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mirror
+    spriteName: Mirror
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 242dbfd239cf0364ea05b619ef93c727
+    layerID: 19
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638918011986615814
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
