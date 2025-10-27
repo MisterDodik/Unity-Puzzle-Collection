@@ -4,7 +4,8 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Rendering;
 
-namespace com.puzzles.ArchivePuzzle{
+namespace com.puzzles.ArchivePuzzle
+{
     public class GlowScript : MonoBehaviour, IBeginDragHandler, IPointerDownHandler, IPointerUpHandler, IDragHandler
     {
         SpriteMask spriteMask;
