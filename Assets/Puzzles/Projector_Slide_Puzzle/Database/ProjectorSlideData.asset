@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e00af603774842f4183456f9cd2b081d, type: 3}
+  m_Name: ProjectorSlideData
+  m_EditorClassIdentifier: 
+  symbols:
+  - symbolGameObject: {fileID: 2543563274184988688, guid: 4f049d51bb671da4387a62f82b7fcff4, type: 3}
+    pieceIndex: 1
+    symbolIndex: 6
+    WinCombination:
+      leftNeighborSymbolIndex: 7
+      rightNeighborSymbolIndex: 5
+    correctPositionIndex: 7
+  - symbolGameObject: {fileID: 5217894996065092352, guid: 948d691d53c73c043b9ad4ce0d958c32, type: 3}
+    pieceIndex: 2
+    symbolIndex: 1
+    WinCombination:
+      leftNeighborSymbolIndex: 2
+      rightNeighborSymbolIndex: 0
+    correctPositionIndex: 2
+  - symbolGameObject: {fileID: 7396646300081024356, guid: 7090c70bad83ed7439fd212de4e3d3e8, type: 3}
+    pieceIndex: 3
+    symbolIndex: 4
+    WinCombination:
+      leftNeighborSymbolIndex: 5
+      rightNeighborSymbolIndex: 3
+    correctPositionIndex: 5
+  - symbolGameObject: {fileID: 8045345474727114612, guid: 9ee233de79116854b823cc00c14894fc, type: 3}
+    pieceIndex: 4
+    symbolIndex: 3
+    WinCombination:
+      leftNeighborSymbolIndex: 4
+      rightNeighborSymbolIndex: 2
+    correctPositionIndex: 4
+  - symbolGameObject: {fileID: 2187668089749343548, guid: 725a991c0451ec8458472b6956d8110a, type: 3}
+    pieceIndex: 5
+    symbolIndex: 2
+    WinCombination:
+      leftNeighborSymbolIndex: 3
+      rightNeighborSymbolIndex: 1
+    correctPositionIndex: 3
+  - symbolGameObject: {fileID: 481310737542504316, guid: 02f6645e874296c459bd39f9fc075047, type: 3}
+    pieceIndex: 6
+    symbolIndex: 5
+    WinCombination:
+      leftNeighborSymbolIndex: 6
+      rightNeighborSymbolIndex: 4
+    correctPositionIndex: 6
+  - symbolGameObject: {fileID: 3480230466638223361, guid: f3268b37bf9db5645b651c1915bd56fa, type: 3}
+    pieceIndex: 7
+    symbolIndex: 7
+    WinCombination:
+      leftNeighborSymbolIndex: 0
+      rightNeighborSymbolIndex: 6
+    correctPositionIndex: 0
+  - symbolGameObject: {fileID: 5052192055477317675, guid: 35c6cfdb5f34f0c409a0bc7df1e0b741, type: 3}
+    pieceIndex: 8
+    symbolIndex: 0
+    WinCombination:
+      leftNeighborSymbolIndex: 1
+      rightNeighborSymbolIndex: 7
+    correctPositionIndex: 1
