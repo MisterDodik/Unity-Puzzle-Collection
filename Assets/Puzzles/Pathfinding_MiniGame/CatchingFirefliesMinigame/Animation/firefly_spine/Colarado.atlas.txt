@@ -1,0 +1,20 @@
+
+Colarado.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wingsclosed
+  rotate: false
+  xy: 2, 2
+  size: 75, 47
+  orig: 77, 52
+  offset: 0, 3
+  index: -1
+wingsopen
+  rotate: false
+  xy: 2, 51
+  size: 74, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3da6bf7457509244ada6e1d6082091f, type: 3}
+  m_Name: ColoradoCatchingFirefliesMinigameAtlas
+  m_EditorClassIdentifier: 
+  Dirty: 0
+  AutoUpdate: 0
+  ForceSquare: 0
+  DefaultTrim: 1
+  DefaultPadSize: 1
+  Identifier: ed86ec6d19aba2046aeade4a0f516656
+  Width: 2048
+  Height: 1024
+  DefaultPadStyle: 0
+  Texture: {fileID: 2800000, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  Sources:
+  - Flag: 0
+    Identifier: c91f9df21f27e5742b2fcf70369142ec
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 8df354ffa7c2e614a9569507180ca645
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 5ea0bd74ffe7e0a4d97fed407af3e664
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 210992f3daaf06b4bb5f140ec9ca37d5
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 593ee85b669f2fc45b2ef1ead0b28bd3
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 08ce73edc9f005f4880aa8c053ff171d
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: b6ebb75d7154abf46a788d4aedabb802
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 8daaaa5c9962caa4a8530ed90ec77615
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: b4fb1e3c573b3e84a8175cc1ca36179f
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 921d7fbd5898c5341b13989607446c8a
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 1a3064523b7b3a244afb9e9ea650b959
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 0510d66e868b54544a2f6b6e303df7dc
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 7366a07e3a078084b8d14dd71f768b27
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  Sprites:
+  - {fileID: -7148513744211286752, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -531118095269095705, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -2766430427214818147, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -7693125446559950850, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -4242830572795938281, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: 5562966458606555629, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: 2494788548271309666, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -5321792169980406234, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: 1379049156309820578, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -2401764435952645762, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: 5236010213375971863, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: 7736775670675353610, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
+  - {fileID: -5297356250726065216, guid: ed86ec6d19aba2046aeade4a0f516656, type: 3}
