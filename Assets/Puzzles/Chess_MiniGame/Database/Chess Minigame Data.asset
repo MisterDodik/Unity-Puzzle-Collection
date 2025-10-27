@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59ff8caf8bf36b4c8a0dcf4cc8b62d6, type: 3}
+  m_Name: Chess Minigame Data
+  m_EditorClassIdentifier: 
+  enemyPieces:
+  - {x: 0, y: 7}
+  - {x: 3, y: 7}
+  - {x: 5, y: 7}
+  - {x: 6, y: 7}
+  - {x: 0, y: 6}
+  - {x: 1, y: 6}
+  - {x: 2, y: 6}
+  - {x: 3, y: 6}
+  - {x: 5, y: 6}
+  - {x: 7, y: 6}
+  - {x: 1, y: 5}
+  - {x: 3, y: 5}
+  - {x: 5, y: 5}
+  - {x: 6, y: 5}
+  - {x: 7, y: 5}
+  - {x: 4, y: 4}
+  playerPieces:
+  - piece: {fileID: 2559050491149641971, guid: 19776138aa95d2c44ad7927aead1332b, type: 3}
+    piecePositions:
+    - {x: 0, y: 1}
+    - {x: 1, y: 1}
+    - {x: 2, y: 1}
+    - {x: 3, y: 1}
+    - {x: 4, y: 1}
+    - {x: 5, y: 1}
+    - {x: 6, y: 1}
+    - {x: 7, y: 1}
+    finalPositions:
+    - {x: 0, y: 3}
+    - {x: 1, y: 2}
+    - {x: 2, y: 1}
+    - {x: 3, y: 1}
+    - {x: 4, y: 3}
+    - {x: 5, y: 1}
+    - {x: 6, y: 2}
+    - {x: 7, y: 1}
+  - piece: {fileID: 439173382119910797, guid: f2e1f3738ff026e47877e3e846c46ae9, type: 3}
+    piecePositions:
+    - {x: 0, y: 0}
+    - {x: 7, y: 0}
+    finalPositions:
+    - {x: 3, y: 0}
+    - {x: 7, y: 0}
+  - piece: {fileID: 3548908498180121624, guid: b00c6750d099e504893c119328c3f6f4, type: 3}
+    piecePositions:
+    - {x: 1, y: 0}
+    - {x: 6, y: 0}
+    finalPositions:
+    - {x: 2, y: 2}
+    - {x: 5, y: 2}
+  - piece: {fileID: 5840150923626686177, guid: 1ee4b741e48c5c4458e6bb12e88e7863, type: 3}
+    piecePositions:
+    - {x: 2, y: 0}
+    - {x: 5, y: 0}
+    finalPositions:
+    - {x: 1, y: 1}
+    - {x: 7, y: 2}
+  - piece: {fileID: 3777894835264777987, guid: f879b780b89bf4c409533929f5b98da0, type: 3}
+    piecePositions:
+    - {x: 3, y: 0}
+    finalPositions:
+    - {x: 4, y: 0}
+  - piece: {fileID: 8726145195912021015, guid: e2ce830fb05f2bc4b83a04caf004090c, type: 3}
+    piecePositions:
+    - {x: 4, y: 0}
+    finalPositions:
+    - {x: 2, y: 0}
