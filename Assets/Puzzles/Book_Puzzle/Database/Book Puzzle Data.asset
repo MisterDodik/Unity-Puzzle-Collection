@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b25db97d35ffc1342ba52b3209e724cb, type: 3}
+  m_Name: Book Puzzle Data
+  m_EditorClassIdentifier: 
+  coinData:
+  - coinPrefab: {fileID: 1964166059096400933, guid: 77fa6d8a88af0744681c3c2f71d3fc56, type: 3}
+    coinPosition: {x: 0, y: 3.82}
+    targetIndex: 2
+  - coinPrefab: {fileID: 7218459312836727497, guid: 09b6e420460c6de47ae6b598a0c11e42, type: 3}
+    coinPosition: {x: 3.64, y: 1.25}
+    targetIndex: 3
+  - coinPrefab: {fileID: 2427886328137639477, guid: 830a0ca0bc094254994cb601bd346f99, type: 3}
+    coinPosition: {x: 2.23, y: -3.07}
+    targetIndex: 4
+  - coinPrefab: {fileID: 3115266753139476155, guid: 1f46306440b01a44ea24d6130d56095d, type: 3}
+    coinPosition: {x: -2.27, y: -3.06}
+    targetIndex: 0
+  - coinPrefab: {fileID: 1087407293633056718, guid: d817ca25273899a4c9db12e106852fb6, type: 3}
+    coinPosition: {x: -3.65, y: 1.22}
+    targetIndex: 1
+  - coinPrefab: {fileID: 0}
+    coinPosition: {x: -0.02, y: 0}
+    targetIndex: 0
+  glowIndicatorData:
+  - glowIndicatorPrefab: {fileID: 2461776780254699593, guid: fd5e7a6bce7a33b4cbf1cc1c269fa4f1, type: 3}
+    glowPosition: {x: -0.03, y: 3.39}
+  - glowIndicatorPrefab: {fileID: 2387396949006404131, guid: 60ad6317035b9f04d98be595ebee58c4, type: 3}
+    glowPosition: {x: 3.11, y: 1.05}
+  - glowIndicatorPrefab: {fileID: 5172782118010939486, guid: adf9b533d24520140b28a6cd9a37e03c, type: 3}
+    glowPosition: {x: 1.865, y: -2.6}
+  - glowIndicatorPrefab: {fileID: 4310671960386311, guid: ae96821fd0934da4d8f8000877cbc92c, type: 3}
+    glowPosition: {x: -2.015, y: -2.565}
+  - glowIndicatorPrefab: {fileID: 7181496624644674264, guid: d1c1a81e2374ce34388453ed41d5ef62, type: 3}
+    glowPosition: {x: -3.155, y: 1.155}
