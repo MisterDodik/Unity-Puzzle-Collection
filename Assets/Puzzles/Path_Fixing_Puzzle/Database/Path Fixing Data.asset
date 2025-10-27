@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c872544db8761e44dbf3530c4c93bf21, type: 3}
+  m_Name: Path Fixing Data
+  m_EditorClassIdentifier: 
+  gridOrigin: {x: -4.68, y: -3.7}
+  gridSize: {x: 5, y: 6}
+  tileOffset: {x: 1.82, y: 1.82}
+  emptyCell: {x: 1, y: 2}
+  tileData:
+  - amountToSpawn: 10
+    tilePrefab: {fileID: 3128856400056613882, guid: 4ef85b6d2be761447a6bc8b71520a51a, type: 3}
+    pointingTo: {x: 0, y: 1}
+  - amountToSpawn: 9
+    tilePrefab: {fileID: 4158698817480486134, guid: ea8fb629ec2c46b49a7144cb0a26c59f, type: 3}
+    pointingTo: {x: 1, y: 0}
+  - amountToSpawn: 3
+    tilePrefab: {fileID: 4917788088605040143, guid: 7ae24aba4b8530e4287b87bf3f629886, type: 3}
+    pointingTo: {x: -1, y: 0}
+  - amountToSpawn: 7
+    tilePrefab: {fileID: 5144869744152000295, guid: 2d6ddd8a7d054854db7549c31b9e9fe5, type: 3}
+    pointingTo: {x: 0, y: -1}
+  solutions:
+  - finalGridPosition: {x: 0, y: 0}
+  - finalGridPosition: {x: 0, y: 1}
+  - finalGridPosition: {x: 0, y: 2}
+  - finalGridPosition: {x: 0, y: 3}
+  - finalGridPosition: {x: 2, y: 3}
+  - finalGridPosition: {x: 3, y: 0}
+  - finalGridPosition: {x: 4, y: 2}
+  - finalGridPosition: {x: 4, y: 3}
+  - finalGridPosition: {x: 5, y: 0}
+  - finalGridPosition: {x: 5, y: 1}
+  - finalGridPosition: {x: 0, y: 4}
+  - finalGridPosition: {x: 1, y: 0}
+  - finalGridPosition: {x: 1, y: 3}
+  - finalGridPosition: {x: 2, y: 0}
+  - finalGridPosition: {x: 2, y: 4}
+  - finalGridPosition: {x: 3, y: 1}
+  - finalGridPosition: {x: 4, y: 0}
+  - finalGridPosition: {x: 4, y: 4}
+  - finalGridPosition: {x: 5, y: 3}
+  - finalGridPosition: {x: 2, y: 1}
+  - finalGridPosition: {x: 3, y: 2}
+  - finalGridPosition: {x: 5, y: 2}
+  - finalGridPosition: {x: 1, y: 1}
+  - finalGridPosition: {x: 1, y: 4}
+  - finalGridPosition: {x: 2, y: 2}
+  - finalGridPosition: {x: 3, y: 3}
+  - finalGridPosition: {x: 3, y: 4}
+  - finalGridPosition: {x: 4, y: 1}
+  - finalGridPosition: {x: 5, y: 4}
