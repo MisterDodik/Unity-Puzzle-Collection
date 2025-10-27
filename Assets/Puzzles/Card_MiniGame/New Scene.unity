@@ -1148,10 +1148,6 @@ PrefabInstance:
       value: Card_MiniGame
       objectReference: {fileID: 0}
     - target: {fileID: 1821270947782699870, guid: 22a34ebf5a135c34c8292f4a4139c0b8, type: 3}
-      propertyPath: tutorialGO
-      value: 
-      objectReference: {fileID: 7624255529165766168, guid: 1622d13b5ebb8474b96d965630ef51ba, type: 3}
-    - target: {fileID: 1821270947782699870, guid: 22a34ebf5a135c34c8292f4a4139c0b8, type: 3}
       propertyPath: endGameText
       value: 
       objectReference: {fileID: 1179196989506527540}
@@ -1163,10 +1159,6 @@ PrefabInstance:
       propertyPath: eventHandler
       value: 
       objectReference: {fileID: 909504091}
-    - target: {fileID: 1821270947782699870, guid: 22a34ebf5a135c34c8292f4a4139c0b8, type: 3}
-      propertyPath: tutorialManager
-      value: 
-      objectReference: {fileID: 6716855971766681131, guid: 1622d13b5ebb8474b96d965630ef51ba, type: 3}
     - target: {fileID: 1865812127255048377, guid: 22a34ebf5a135c34c8292f4a4139c0b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
