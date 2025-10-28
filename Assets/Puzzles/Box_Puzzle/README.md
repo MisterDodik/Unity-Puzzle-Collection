@@ -6,6 +6,7 @@
 
 **Goal**: Move each plank to its correct position to complete the cube
 
+
 🎮 **Gameplay Description**
 
 - The puzzle consists of a cube made of 9 planks.
@@ -16,7 +17,6 @@
 
 - A reference image of the cube is displayed on the screen, showing the correct positions for each plank.
 
-- The objective is to drag each plank to its correct position as indicated by the reference cube.
 
 🛠 **Implementation Notes**
 
@@ -24,9 +24,11 @@
 
 - Puzzle completion is detected when all 9 planks are in their correct positions.
 
+
 🎬 **Demo / GIF**
 
 ![Box Puzzle Demo](./demo.gif)
+
 
 💡 **Notes / Highlights**
 
