@@ -26,22 +26,23 @@ Serve as a portfolio reference for potential employers and collaborators.
 Each puzzle can run independently, and all external dependencies (frameworks, studio-specific systems) have been removed or replaced with self-contained logic.
 
 📁 Repository Structure
+```text
 Unity-Puzzle-Collection/
-|
-|-- Assets/
-|   |-- Puzzles/
-|   |   |-- Archive_Puzzle/
-|   |   |   |-- Art/
-|   |   |   |-- Prefabs/
-|   |   |   |-- Scripts/
-|   |   |   |-- Database/
-|   |   |-- Book_Puzzle/
-|   |   |-- Box_Puzzle/
-|   |   |-- ...
-|   |
-|   |-- Editor/             <- organizational scripts and helpers
-|
-|-- README.md
+│
+├── Assets/
+│   ├── Puzzles/
+│   │   ├── Archive_Puzzle/
+│   │   │   ├── Art/
+│   │   │   ├── Prefabs/
+│   │   │   ├── Scripts/
+│   │   │   └── Database/
+│   │   ├── Book_Puzzle/
+│   │   ├── Box_Puzzle/
+│   │   └── ...
+│   └── Editor/             <- organizational scripts and helpers
+│
+└── README.md 
+```
 
 Each puzzle follows the same folder structure (Art, Prefabs, Scripts, Database) and contains:
 
