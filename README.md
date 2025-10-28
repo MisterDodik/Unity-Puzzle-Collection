@@ -1,5 +1,3 @@
-# unity-puzzle-collection
-
 🧩 Unity Puzzle Collection
 
 This repository contains a collection of 21 puzzles and mini-games that I developed during my time at Vincell Studios, refactored and made standalone for demonstration purposes.
@@ -28,3 +26,45 @@ Serve as a portfolio reference for potential employers and collaborators.
 Each puzzle can run independently, and all external dependencies (frameworks, studio-specific systems) have been removed or replaced with self-contained logic.
 
 📁 Repository Structure
+Unity-Puzzle-Collection/
+│
+├── Assets/
+│   ├── Puzzles/
+│   │   ├── Archive_Puzzle/
+│   │   │   ├── Art/
+│   │   │   ├── Prefabs/
+│   │   │   ├── Scripts/
+│   │   │   └── Database/
+│   │   ├── Book_Puzzle/
+│   │   ├── Box_Puzzle/
+│   │   ├── ...
+│   │
+│   └── Editor/             ← organizational scripts and helpers
+│
+└── README.md
+
+Each puzzle follows the same folder structure (Art, Prefabs, Scripts, Database) and contains:
+
+A minimal Unity scene and necessary assets for that puzzle
+
+A short README.md with explanation & optional GIF demo
+
+
+🧰 Notes
+
+Studio code has been fully removed.
+
+All puzzles are independent and can be opened and tested individually.
+
+No external assets or licensed materials are included.
+
+👤 About Me
+
+I’m a Unity C# Developer with professional experience in game development, focusing on gameplay systems, UI logic, and puzzle design.
+This repo represents a part of my experience and technical growth during my work at Vincell Studios.
+
+🔗 Contact
+
+Email: drazenpetrovic56@gmail.com
+
+LinkedIn: [Dražen Petrović](https://www.linkedin.com/in/drazen-petrovic/)
