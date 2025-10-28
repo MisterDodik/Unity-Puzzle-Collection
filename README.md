@@ -1,4 +1,4 @@
-🧩 **Unity Puzzle Collection**
+# 🧩 **Unity Puzzle Collection**
 
 This repository contains a collection of 20 puzzles and mini-games that I developed during my time at Vincell Studios, refactored for demonstration purposes.
 All puzzles were originally created for escape-room style adventure games, and each one has been cleaned of studio-specific code, namespaces, and frameworks.

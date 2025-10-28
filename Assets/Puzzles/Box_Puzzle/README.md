@@ -1,4 +1,4 @@
-**Box Puzzle**
+# **Box Puzzle**
 
 **Type**: Sliding Puzzle
 
