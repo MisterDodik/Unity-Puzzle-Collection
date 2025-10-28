@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c6df52c1097fa4fb8e97e6d7060f97, type: 3}
+  m_Name: Wall Puzzle Data
+  m_EditorClassIdentifier: 
+  winPositions:
+  - {x: 0.872, y: 0.149, z: 0}
+  - {x: 2.692, y: -0.549, z: 0}
+  - {x: -4.105, y: -1.891, z: 0}
+  - {x: -1.078, y: 0.158, z: 0}
+  - {x: 4.036, y: -1.866, z: 0}
+  - {x: -2.885, y: -0.627, z: 0}
