@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b932f20c0cd75049ad4318d9fc54af4, type: 3}
+  m_Name: Enchantment Table Position Data
+  m_EditorClassIdentifier: 
+  hexagonPositions:
+  - yPos: 3.324
+    xPos:
+    - -2
+    - 0
+    - 2
+    trianglePos: 
+  - yPos: 1.624
+    xPos:
+    - -3
+    - -1
+    - 1
+    - 3
+    trianglePos: 
+  - yPos: -0.07
+    xPos:
+    - -4
+    - -2
+    - 2
+    - 4
+    trianglePos: 
+  - yPos: -1.775
+    xPos:
+    - -3
+    - -1
+    - 1
+    - 3
+    trianglePos: 
+  - yPos: -3.47
+    xPos:
+    - -2
+    - 0
+    - 2
+    trianglePos: 
+  triangleData:
+  - position: 0000000005000000
+  - position: 000000000100000004000000
+  - position: 0000000004000000
+  - position: 0000000001000000
+  - position: 000000000400000005000000
+  - position: 0000000003000000
+  - position: 0000000004000000
+  - position: 000000000400000005000000
+  - position: 000000000100000004000000
+  - position: 000000000400000005000000
+  - position: 0000000005000000
+  - position: 000000000400000005000000
+  - position: 000000000400000005000000
+  - position: 000000000100000004000000
+  - position: 00000000
+  - position: 0000000004000000
+  - position: 000000000100000004000000
+  - position: 00000000
+  pathPositions1:
+  - yPos: 3.32
+    xPos:
+    - -1.07
+    - 0.93
+  - yPos: 1.624
+    xPos:
+    - -2.07
+    - -0.07
+    - 1.93
+  - yPos: -0.07
+    xPos:
+    - -3.07
+    - -1.07
+    - 0.93
+    - 2.93
+  - yPos: -1.775
+    xPos:
+    - -2.07
+    - -0.07
+    - 1.93
+  - yPos: -3.47
+    xPos:
+    - -1.07
+    - 0.93
+  pathPositions2:
+  - yPos: 2.4
+    xPos:
+    - -2.6
+    - -0.58
+    - 1.43
+  - yPos: 0.77
+    xPos:
+    - -3.53
+    - -1.53
+    - 0.5
+    - 2.5
+  - yPos: -0.95
+    xPos:
+    - -2.53
+    - -0.52
+    - 1.48
+    - 3.45
+  - yPos: -2.6
+    xPos:
+    - -1.48
+    - 0.5
+    - 2.5
+  pathPositions3:
+  - yPos: 2.4
+    xPos:
+    - -1.48
+    - 0.5
+    - 2.5
+  - yPos: 0.77
+    xPos:
+    - -2.5
+    - -0.54
+    - 1.48
+    - 3.5
+  - yPos: -0.95
+    xPos:
+    - -3.5
+    - -1.5
+    - 0.5
+    - 2.5
+  - yPos: -2.6
+    xPos:
+    - -2.5
+    - -0.5
+    - 1.45
