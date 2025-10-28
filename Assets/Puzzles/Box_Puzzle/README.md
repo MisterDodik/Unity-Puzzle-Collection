@@ -1,7 +1,9 @@
 **Box Puzzle**
 
 **Type**: Sliding Puzzle
+
 **Platform**: Unity (2D, simulated 3D perspective)
+
 **Goal**: Move each plank to its correct position to complete the cube
 
 🎮 **Gameplay Description**
