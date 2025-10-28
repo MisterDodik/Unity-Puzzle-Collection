@@ -29,3 +29,5 @@
 💡 **Notes / Highlights**
 
 - Uses axis-constrained dragging to simulate 3D movement in 2D space.
+
+- The puzzle includes **Reset** and **Skip** buttons, allowing players to restart the puzzle or move past it if needed.
