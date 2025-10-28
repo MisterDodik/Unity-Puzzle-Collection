@@ -34,7 +34,33 @@ Unity-Puzzle-Collection/
 └── README.md 
 ```
 
-Each puzzle follows the same folder structure (Art, Prefabs, Scripts, Database) and contains:
+🧩 Puzzles
+
+This repository contains the following standalone puzzles and mini-games:
+
+- [Archive Puzzle](Assets/Puzzles/Archive_Puzzle)
+- [Book Puzzle](Assets/Puzzles/Book_Puzzle)
+- [Box Puzzle](Assets/Puzzles/Box_Puzzle)
+- [Card MiniGame](Assets/Puzzles/Card_MiniGame)
+- [Chess MiniGame](Assets/Puzzles/Chess_MiniGame)
+- [Dominoes Puzzle](Assets/Puzzles/Dominoes_Puzzle)
+- [Enchantment Table](Assets/Puzzles/Enchantment_Table)
+- [Gate Barrier Puzzle](Assets/Puzzles/Gate_Barrier_Puzzle)
+- [Locker Puzzle](Assets/Puzzles/Locker_Puzzle)
+- [Mask Puzzle](Assets/Puzzles/Mask_Puzzle)
+- [Painting Puzzle](Assets/Puzzles/Painting_Puzzle)
+- [Path Fixing Puzzle](Assets/Puzzles/Path_Fixing_Puzzle)
+- [Pathfinding MiniGame](Assets/Puzzles/Pathfinding_MiniGame)
+- [Patna Crossword](Assets/Puzzles/PatnaCrossword)
+- [Projector Slide Puzzle](Assets/Puzzles/Projector_Slide_Puzzle)
+- [Secret Door](Assets/Puzzles/SecretDoor)
+- [Soul Boss MiniGame](Assets/Puzzles/Soul_Boss_Minigame)
+- [Stone Table](Assets/Puzzles/StoneTable)
+- [Wall Puzzle](Assets/Puzzles/Wall_Puzzle)
+- [Word MiniGame](Assets/Puzzles/Word_Minigame)
+
+
+Each puzzle contains:
 
 - A minimal Unity scene and necessary assets for that puzzle
 
