@@ -36,7 +36,7 @@ Unity-Puzzle-Collection/
 
 ### 🧩 Puzzles
 
-This repository contains the following standalone puzzles and mini-games:
+This repository contains the following puzzles and mini-games:
 
 - [Archive Puzzle](Assets/Puzzles/Archive_Puzzle)
 - [Book Puzzle](Assets/Puzzles/Book_Puzzle)
@@ -51,7 +51,7 @@ This repository contains the following standalone puzzles and mini-games:
 - [Painting Puzzle](Assets/Puzzles/Painting_Puzzle)
 - [Path Fixing Puzzle](Assets/Puzzles/Path_Fixing_Puzzle)
 - [Pathfinding MiniGame](Assets/Puzzles/Pathfinding_MiniGame)
-- [Patna Crossword](Assets/Puzzles/PatnaCrossword)
+- [Patna Crossword](Assets/Puzzles/PatnaCrossword) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(Custom puzzle framework used across multiple Vincell games)*  
 - [Projector Slide Puzzle](Assets/Puzzles/Projector_Slide_Puzzle)
 - [Secret Door](Assets/Puzzles/SecretDoor)
 - [Soul Boss MiniGame](Assets/Puzzles/Soul_Boss_Minigame)
@@ -66,6 +66,8 @@ Each puzzle contains:
 
 - A short README.md with explanation & optional GIF demo
 
+**Note:** The [Patna Crossword](Assets/Puzzles/PatnaCrossword) is a puzzle framework that I developed, 
+which was later used across multiple projects at Vincell Studio for quick puzzle creation and customization.
 
 ### 🧰 Notes
 
