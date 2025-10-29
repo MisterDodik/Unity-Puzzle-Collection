@@ -4,7 +4,6 @@
 
 **Role**: Core system and tools development
 
-</br>
 
 ### 🧩 Overview
 
@@ -13,8 +12,8 @@ It allows designers to visually define **custom shapes** and **grids** directly 
 
 Originally developed as part of the company's **internal puzzle toolkit.**
 This framework became the foundation for many in-game puzzles, because it requires only changes in art or data for new variations.
-</br>
-</br>
+
+
 
 ### ⚙️ Core Functionality
 - **Custom Grid Creation:**
@@ -32,11 +31,7 @@ Implemented a **custom collision detection** system that manages **interactions*
 
 - **Drag & Drop System:**
 
-Built a smooth, **grid-aware drag and drop** mechanism, allowing users to reposition shapes intuitively.
-
-- **Snap-to-Grid System:**
-
-Ensures that all shapes precisely **align** with grid coordinates upon release.
+Built a smooth, **grid-aware drag and drop** mechanism, allowing users to reposition shapes using a custom **snap-to-grid system**.
 
 - **Custom Grid Shapes:**
 
